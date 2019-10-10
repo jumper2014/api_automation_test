@@ -24,7 +24,7 @@
 ### 2.下载代码到本地并解压<br>
 ### 3.cmd到根目录下安装相关依赖包<br>
 ```bash
-pip install -r requirements.txt<br>
+pip install -r requirements.txt
 pip install https://github.com/darklow/django-suit/tarball/v2
 ```
 ### 4.安装mysql数据库，配置数据库连接，进入api_automation_test/settings.py<br>
@@ -64,7 +64,7 @@ npm run build
 ```bash
 python manage.py runserver 0.0.0.0:8000
 ```
-### 12.现在就可以访问 http://127.0.0.1:8000/login 进行登录， http://127.0.0.1:8000/admin 为后台管理平台<br>
+### 12.现在就可以访问 http://127.0.0.1:8000/ 进行登录， http://127.0.0.1:8000/admin 为后台管理平台<br>
 ## 微信打赏：<br>
 ![微信打赏](https://github.com/githublitao/api_automation_test/blob/master/img/%E6%94%B6%E6%AC%BE%E7%A0%81.png)<br>
 <br>
